@@ -13,7 +13,7 @@ oauthlib==3.0.1
 pandas==1.0.3
 psycopg2==2.8.4
 pycparser==2.19
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyodbc===4.0.0-unsupported
 pyOpenSSL==19.1.0
 pyreadline==2.1
